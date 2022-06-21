@@ -1,1 +1,1 @@
-# edgar_ivan
+"Práctica 1. Wear OS"
